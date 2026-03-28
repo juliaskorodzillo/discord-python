@@ -1,0 +1,4 @@
+0 krokusy
+1 tulipany
+2 przebiniseg
+3 stokrotka
