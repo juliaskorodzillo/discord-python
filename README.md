@@ -13,3 +13,5 @@ zwraca confidence score oraz imię klasy
 
 #keras_model.h5  #labels.txt
 importowane z google teachable machiene i zawiera dane o rodzaju klas kwiatków
+![Alt Text](<img width="496" height="373" alt="image" src="https://github.com/user-attachments/assets/668669e7-c381-48f8-8d01-9d5eed0e1704" />
+)
